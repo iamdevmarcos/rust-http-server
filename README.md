@@ -63,3 +63,9 @@ By default, the server will be available at `http://127.0.0.1:8080`.
 
 - [Warp](https://crates.io/crates/warp) - For creating a lightweight, asynchronous web server.
 - [Serde](https://crates.io/crates/serde) - For serializing the JSON response.
+
+- ## Preview
+  
+<img width="1440" alt="Screenshot 2024-10-08 at 21 34 30" src="https://github.com/user-attachments/assets/9a64af98-9fdd-497b-9128-961a26eb41bf">
+
+
